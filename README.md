@@ -29,7 +29,7 @@ production risk and maintain stable agricultural output.
 
 https://github.com/Anuoluwapooke/Agri-predictive-analytics/blob/main/Prediction-5.png
 
-![Prediction 6](images/Prediction-6.png)
+https://github.com/Anuoluwapooke/Agri-predictive-analytics/blob/main/Prediction-6.png
 
 
 
