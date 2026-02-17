@@ -25,5 +25,22 @@ If rainfall falls below the historical average, crop yields are expected to
 decline. Farmers should implement drip irrigation strategies to mitigate
 production risk and maintain stable agricultural output.
 
+## Sample Visualization
+
+![Model Prediction](images/model_prediction.png)
+
+## Skills Demonstrated
+
+- Data Cleaning & Preprocessing
+- Missing Value Handling
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Linear Regression Modeling
+- Model Evaluation (MSE, R²)
+- Data Visualization (Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Scikit-learn)
+
+
 ## Author
 Aspiring Predictive Data Analyst (AgriTech focus)
