@@ -27,10 +27,10 @@ production risk and maintain stable agricultural output.
 
 ## Sample Visualization
 
-[![Model Prediction](images/model_prediction.png)](https://github.com/Anuoluwapooke/Agri-predictive-analytics/blob/main/Prediction-5.png) 
+![Prediction vs Actual](images/prediction_vs_actual.png)
 
-## Sample Visualization
-[![Model Prediction](images/model_prediction.png)] (https://github.com/Anuoluwapooke/Agri-predictive-analytics/blob/main/Prediction-5.png)
+![Residual Plot](images/residual_plot.png)
+
 
 ## Skills Demonstrated
 
