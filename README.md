@@ -47,6 +47,27 @@ production risk and maintain stable agricultural output.
 - Data Visualization (Matplotlib, Seaborn)
 - Python (Pandas, NumPy, Scikit-learn)
 
+## References and Tools
+
+### References
+- **FAO (Food and Agriculture Organization)** – Historical crop yield and rainfall data. [FAO Website](http://www.fao.org)  
+- **National Meteorological Sources** – Seasonal rainfall data used for analysis.  
+- **Project Dataset** – Preprocessed and cleaned data used for this project: `datasets/agri_predictive_dataset_final.csv`  
+
+### Tools and Libraries
+- **Programming & Analysis:** Python 3, Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Modeling:** Scikit-learn (Linear Regression)  
+- **Environment:** Google Colab  
+
+### Notes
+- All data was preprocessed and anonymized for educational and predictive analytics purposes.  
+- This repository contains **two main projects**:  
+  1. **Week 1 Project:** Exploratory data analysis of agricultural data.  
+  2. **Week 2–3 Project:** Data cleaning, feature engineering, predictive modeling, and visualization.  
+
+These projects demonstrate a complete end-to-end workflow from raw data to actionable insights in AgriTech.
+
 
 ## Author
-Aspiring Predictive Data Analyst (AgriTech focus)
+Anuoluwapo Emmanuel Oke. Aspiring Predictive Data Analyst (AgriTech focus)
