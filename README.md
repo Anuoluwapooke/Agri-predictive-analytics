@@ -1,31 +1,30 @@
-# Agri-predictive-analytics
-Predictive data analytics projects focused on agriculture and AgriTech.
+# Agricultural Predictive Analytics Project
 
-# Predictive Analysis of Rainfall Impact on Crop Yield (AgriTech)
+**Author:** Anuoluwapo Emmanuel Oke — Aspiring Predictive Data Analyst (AgriTech focus)
 
-## Overview
-This project analyzes how rainfall influences crop yield using exploratory
-data analysis and visualizations. The objective is to identify low-rainfall
-risk periods and provide data-driven recommendations to support agricultural
-planning and supply chain stability.
+---
 
-## Tools & Technologies
-- Python
-- pandas
-- matplotlib
-- Google Colab / Jupyter Notebook
+## Project Overview
 
-## Key Insights
-- Crop yields are higher during seasons with above-average rainfall
-- Low-rainfall seasons are associated with increased yield risk
-- Rainfall and crop yield show a positive correlation
+This repository demonstrates end-to-end predictive analytics on agricultural data, focusing on crop yield prediction based on rainfall and engineered risk features. The projects include:
 
-## Prediction & Recommendation
-If rainfall falls below the historical average, crop yields are expected to
-decline. Farmers should implement drip irrigation strategies to mitigate
-production risk and maintain stable agricultural output.
+- Data cleaning and handling missing values  
+- Feature engineering (Low Rainfall and Low Yield risk flags)  
+- Exploratory data analysis (EDA) and correlation visualization  
+- Predictive modeling using Linear Regression  
+- Evaluation and visualization of model predictions
 
-## Sample Visualization
+These projects provide actionable insights to support farmers and AgriTech stakeholders in making informed decisions.
+
+---
+
+## Google Colab Notebooks
+
+- **Week 1:** [Exploratory Analysis Notebook](https://colab.research.google.com/drive/1AoeYVhYCtqr77f3G8z-LA84Uc43MLT3P?usp=sharing)
+  
+- **Week 2–3:** [Data Cleaning & Predictive Modeling Notebook]
+(https://colab.research.google.com/drive/1AoeYVhYCtqr77f3G8z-LA84Uc43MLT3P?usp=sharing)
+---
 
 ## Model Performance
 
@@ -33,19 +32,20 @@ production risk and maintain stable agricultural output.
 
 ![Prediction 6](Prediction-6.png)
 
+---
 
+## Folder Structure
 
-## Skills Demonstrated
-
-- Data Cleaning & Preprocessing
-- Missing Value Handling
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Correlation Analysis
-- Linear Regression Modeling
-- Model Evaluation (MSE, R²)
-- Data Visualization (Matplotlib, Seaborn)
-- Python (Pandas, NumPy, Scikit-learn)
+AgriPredictiveAnalytics/
+├── notebooks/
+│ ├── week1_exploratory_analysis.ipynb
+│ └── week2_3_cleaning_and_prediction.ipynb
+├── datasets/
+│ └── agri_predictive_dataset_final.csv
+├── images/
+│ ├── Prediction-5.png
+│ └── Prediction-6.png
+└── README.md
 
 ## References and Tools
 
@@ -63,11 +63,5 @@ production risk and maintain stable agricultural output.
 ### Notes
 - All data was preprocessed and anonymized for educational and predictive analytics purposes.  
 - This repository contains **two main projects**:  
-  1. **Week 1 Project:** Exploratory data analysis of agricultural data.  
-  2. **Week 2–3 Project:** Data cleaning, feature engineering, predictive modeling, and visualization.  
-
-These projects demonstrate a complete end-to-end workflow from raw data to actionable insights in AgriTech.
-
-
-## Author
-Anuoluwapo Emmanuel Oke. Aspiring Predictive Data Analyst (AgriTech focus)
+  1. Exploratory data analysis of agricultural data.  
+  2.  Data cleaning, feature engineering, predictive modeling, and visualization.  
