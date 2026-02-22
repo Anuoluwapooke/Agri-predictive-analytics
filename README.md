@@ -1,6 +1,6 @@
 # Agricultural Predictive Analytics Project
 
-**Author:** Anuoluwapo Emmanuel Oke — Aspiring Predictive Data Analyst (AgriTech focus)
+**Author:** Anuoluwapo Emmanuel Oke — Aspiring Predictive Mgmt.Data Analyst (AgriTech focus)
 
 ---
 
