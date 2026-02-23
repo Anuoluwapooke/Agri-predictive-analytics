@@ -20,9 +20,7 @@ These projects provide actionable insights to support farmers and AgriTech stake
 
 ## Google Colab Notebooks
 
-- **Week 1:** [Exploratory Analysis Notebook](https://colab.research.google.com/drive/1AoeYVhYCtqr77f3G8z-LA84Uc43MLT3P?usp=sharing)
-  
-- **Week 2–3:** [Data Cleaning & Predictive Modeling Notebook]
+ Data Cleaning,visualization & Predictive Modeling Notebook
 (https://colab.research.google.com/drive/1AoeYVhYCtqr77f3G8z-LA84Uc43MLT3P?usp=sharing)
 ---
 
